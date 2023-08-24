@@ -1,4 +1,4 @@
-namespace WMVCADS.Models
+namespace WMVCADS2023.Models
 {
     public class ErrorViewModel
     {
